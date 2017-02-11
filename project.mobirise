@@ -22,7 +22,9 @@
     },
     "versionFirst": "3.11.1",
     "uniqCompNum": 17,
-    "versionPublish": "3.11.1"
+    "versionPublish": "3.11.1",
+    "favicon": "",
+    "noImageResize": ""
   },
   "pages": {
     "Home": {
